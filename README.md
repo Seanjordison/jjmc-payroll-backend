@@ -1,11 +1,11 @@
 # JJMC Payroll Backend
 
 A standalone **Node.js / Express** REST API backend for the **JJMC Payroll and Tax Return System**.  
-It connects to the same Firebase project the frontend already uses — without touching or replacing any existing `firebase_functions` files.
+
 
 ---
 
-## Table of Contents
+ Table of Contents
 
 - [Architecture](#architecture)
 - [Prerequisites](#prerequisites)
